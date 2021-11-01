@@ -1,0 +1,24 @@
+{
+  "products" : {
+    "kartica1" : {
+      "cardNumber" : 123,
+      "id" : "p1",
+      "vendor" : "LUKOIL"
+    },
+    "kartica2" : {
+      "cardNumber" : 456,
+      "id" : "p2",
+      "vendor" : "OMV"
+    },
+    "kartica3" : {
+      "cardNumber" : 789,
+      "id" : "p3",
+      "vendor" : "MOL"
+    },
+    "kartica4" : {
+      "cardNumber" : "000",
+      "id" : "p4",
+      "vendor" : "PETROL"
+    }
+  }
+}
